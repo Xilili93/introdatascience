@@ -1,2 +1,2 @@
 # introdatascience
-WQD7001 - Tutorail 2
+WQD7001 - Tutorial 2
